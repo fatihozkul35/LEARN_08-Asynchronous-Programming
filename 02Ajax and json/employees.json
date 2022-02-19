@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sedat Peker",
+    "department": "Bilisim",
+    "salary": "3500"
+  },
+  {
+    "name": "Veli Agar",
+    "department": "Bilisim",
+    "salary": "4000"
+  },
+  {
+    "name": "Fazıl Say",
+    "department": "Bilisim",
+    "salary": "5000"
+  }
+]
